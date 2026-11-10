@@ -1,0 +1,4 @@
+blog.db
+data/
+bin/
+.env
